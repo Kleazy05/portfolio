@@ -1,0 +1,57 @@
+.align-center{
+  text-align:center;
+}
+.dark-Background{
+ background-color:black;
+  color:white;
+}
+.align-left{
+  text-align:left;
+}
+header{
+  font-family:cursive;
+  font-size:20px;
+  padding:15px;
+  margin:10px;
+  border-radius:20px;
+  background-image: url("images/galaxy.jpg");
+}
+footer{
+  font-family:cursive;
+  padding:20px;
+  margin:10px;
+  height:30px;
+}
+
+body{
+  color:white;
+  background-color:black
+  
+  
+}
+
+main{
+  margin:100px;
+  
+}
+.inside{
+  list-style-position: inside;
+}
+
+li{
+  padding:1px 100px;
+}
+
+p{
+  font-family:'Times New Roman', Times, serif;
+}
+
+a {
+  font-family:cursive;
+  font-size: 16px;
+}
+
+a:link    { color: blue;  }
+a:visited { color: red;   }
+a:hover   { color: green; }
+a:active  { color: pink;  }
