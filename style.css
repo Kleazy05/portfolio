@@ -1,13 +1,21 @@
+/*text alignment class to align it in the center of the page,to be used as seen fit.*/
+
 .align-center{
   text-align:center;
 }
+
+/*Originally planned to have a dark background for the header so this was for that.*/
 .dark-Background{
  background-color:black;
   color:white;
 }
+
+/*allows you to assign text left as seen fit. */
 .align-left{
   text-align:left;
 }
+
+/*this allows for customization of the header*/
 header{
   font-family:cursive;
   font-size:20px;
@@ -16,41 +24,47 @@ header{
   border-radius:20px;
   background-image: url("images/galaxy.jpg");
 }
+
+/*allows for customization of the footer*/
 footer{
   font-family:cursive;
   padding:20px;
   margin:10px;
   height:30px;
 }
-
+/*This sets the background of the body container to black and the text within that container to white*/
 body{
   color:white;
   background-color:black
   
   
 }
-
+/*sets the margins of the main container, wanted to condense it a bit to look better*/
 main{
   margin:100px;
   
+/*This moves the position of the bulleted statements*/
 }
 .inside{
   list-style-position: inside;
 }
-
+/*moves the list items further to the center can also change how far apart vertically each one appears */
 li{
   padding:1px 100px;
 }
-
+/*sets the text for all the paragraphs to what's specified below */
 p{
   font-family:'Times New Roman', Times, serif;
 }
+
+/*Adjusts the sive as well as style of my links*/
 
 a {
   font-family:cursive;
   font-size: 16px;
 }
 
+/*link colors that will change depending on whether you hover over, click, activate or have visited that link before.*/
 a:link    { color: blue;  }
 a:visited { color: red;   }
 a:hover   { color: green; }
