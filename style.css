@@ -65,7 +65,7 @@ a {
 }
 
 /*link colors that will change depending on whether you hover over, click, activate or have visited that link before.*/
-a:link    { color: blue;  }
-a:visited { color: red;   }
-a:hover   { color: green; }
-a:active  { color: pink;  }
+a:link    { color: #9494FF;  }
+a:visited { color: #FF6678;   }
+a:hover   { color: #00F5A3; }
+a:active  { color: #FF80FB;  }
