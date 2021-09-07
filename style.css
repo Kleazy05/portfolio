@@ -50,7 +50,7 @@ main{
 }
 /*moves the list items further to the center can also change how far apart vertically each one appears */
 li{
-  padding:1px 600px;
+  padding:1px auto;
 }
 /*sets the text for all the paragraphs to what's specified below */
 p{
