@@ -50,16 +50,12 @@ main{
 }
 /*moves the list items further to the center can also change how far apart vertically each one appears */
 li{
-  padding:1px auto;
+  padding:1px 600px;
 }
 /*sets the text for all the paragraphs to what's specified below */
 p{
   font-family:'Times New Roman', Times, serif;
 }
-
-ol{
-  display:table;
-  margin:0 auto;}
 
 /*Adjusts the sive as well as style of my links*/
 
