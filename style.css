@@ -57,6 +57,10 @@ p{
   font-family:'Times New Roman', Times, serif;
 }
 
+ol{
+  display:table;
+  margin:0 auto;}
+
 /*Adjusts the sive as well as style of my links*/
 
 a {
