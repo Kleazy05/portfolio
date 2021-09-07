@@ -35,7 +35,7 @@ footer{
 /*This sets the background of the body container to black and the text within that container to white*/
 body{
   color:white;
-  background-color:black
+  background-color:black;
 }
 
 /*This moves the position of the bulleted statements*/
