@@ -3,6 +3,16 @@
 .align-center{
   text-align:center;
 }
+/* helps with centering the unordered lists*/
+ul { 
+	display: inline-block; 
+	text-align: left; 
+	}
+/*helps with centering the ordered lists*/
+ol { 
+	display: inline-block; 
+	text-align: left; 
+	}
 
 /*Originally planned to have a dark background for the header so this was for that.*/
 .dark-Background{
