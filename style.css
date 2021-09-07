@@ -36,15 +36,9 @@ footer{
 body{
   color:white;
   background-color:black
-  
-  
-}
-/*sets the margins of the main container, wanted to condense it a bit to look better*/
-main{
-  margin:100px;
-  
+
 /*This moves the position of the bulleted statements*/
-}
+
 .inside{
   list-style-position: inside;
 }
